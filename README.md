@@ -1,5 +1,5 @@
-<!-- ### Hi there 👋
- -->
+### Hello, I'm Bobby. 👋
+
 
 ### 🇳🇿 About Me
 
@@ -37,8 +37,8 @@
 ### 🔥 &nbsp;Github Stats 
 <p>
 <a href="https://xanzhu.com"> 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=xanzhu&count_private=true&show_icons=true&theme=midnight-purple"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanzhu&layout=compact&theme=midnight-purple" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xanzhu&count_private=true&show_icons=true&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanzhu&layout=compact&theme=midnight-purple" />
 </a>
 </p>
 
@@ -54,10 +54,21 @@ UX Design Projects - Redesigning popular New Zealand Based Services/Websites (Pl
 
 ### 🗺️ &nbsp;Visions and Goals 
 
-&nbsp;I am passionate about using technology to create accessible and secure solutions. I am particularly interested in learning about artificial intelligence and human-centered design to create and develop innovative software that are easy to use and free for everyone. Whether it is improving the accessibility of websites or developing secure frameworks, I am always looking for ways to make a positive impact through technology.
+I am passionate about using technology to create accessible and secure solutions. I am particularly interested in learning about artificial intelligence and human-centered design to create and develop innovative software that are easy to use and free for everyone. Whether it is improving the accessibility of websites or developing secure frameworks, I am always looking for ways to make a positive impact through technology.
 
 #### 💻 &nbsp;Goals for 2025 (UX / Software Development / Cyber Security / Machine Learning)
 - [ ] Google
 - [ ] Microsoft
 - [ ] Apple
 - [ ] Cisco
+
+
+### Socials
+
+<p align="center">
+<a href="https://xanzhu.com"><img src="https://img.shields.io/badge/-xanzhu.com-000000?style=flat&logo=Brave"/></a>
+<a href="https://linkedin.com/in/uhingaro"><img src="https://img.shields.io/badge/-Bobby%20Jenkins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:bobbu@xanzhu.com"><img src="https://img.shields.io/badge/-bobby@xanzhu.com-FFFFFF?style=flat&logo=Gmail"/></a>
+<a href="https://instagram.com/uhingaro"><img src="https://img.shields.io/badge/-@uhingaro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://mastodon.social/@xanzhu"><img src="https://img.shields.io/badge/-Xanzhu-6364ff?style=flat&logo=Mastodon&logoColor=white"/></a>
+</p>
