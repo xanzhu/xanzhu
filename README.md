@@ -36,7 +36,7 @@
 
 ### 🔥 &nbsp;Github Stats 
 <p>
-<a href="https://xanzhu.com"> 
+<a href="https://github.com/xanzhu"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xanzhu&count_private=true&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanzhu&layout=compact&theme=midnight-purple" />
 </a>
@@ -44,9 +44,9 @@
 
 ### 🚧 &nbsp;Projects I'm working on: 
 
-[Xanzhu](https://xanzhu.com/) - Technology News/Blog, Built using [Nuxt](https://nuxt.com) (Developed)
+<a href="https://xanzhu.com" target="_blank">Xanzhu</a> - Technology News/Blog, Built using <a href="https://nuxt.com" target="_blank">Nuxt</a> (Developed)
 
-[uhingaro](https://uhingaro.com/) - Portfolio/UX Designs, Built using [Next.js](https://nextjs.org/) (Planning)
+uhingaro - Portfolio/UX Designs, Built using <a href="https://nextjs.org" target="_blank">Next.js</a> (Planning)
 
 Human Vision Project - Basic AI Model detecting Objects, Patterns etc (Planning)\
 UX Design Projects - Redesigning popular New Zealand Based Services/Websites (Planning)
@@ -62,13 +62,10 @@ I am passionate about using technology to create accessible and secure solutions
 - [ ] Apple
 - [ ] Cisco
 
-
-### Socials
-
 <p align="center">
-<a href="https://xanzhu.com"><img src="https://img.shields.io/badge/-xanzhu.com-000000?style=flat&logo=Brave"/></a>
-<a href="https://linkedin.com/in/uhingaro"><img src="https://img.shields.io/badge/-Bobby%20Jenkins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://xanzhu.com" target="_blank"><img src="https://img.shields.io/badge/-xanzhu.com-000000?style=flat&logo=Brave"/></a>
+<a href="https://linkedin.com/in/uhingaro" target="_blank"><img src="https://img.shields.io/badge/-Bobby%20Jenkins-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:bobbu@xanzhu.com"><img src="https://img.shields.io/badge/-bobby@xanzhu.com-FFFFFF?style=flat&logo=Gmail"/></a>
-<a href="https://instagram.com/uhingaro"><img src="https://img.shields.io/badge/-@uhingaro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://mastodon.social/@xanzhu"><img src="https://img.shields.io/badge/-Xanzhu-6364ff?style=flat&logo=Mastodon&logoColor=white"/></a>
+<a href="https://instagram.com/uhingaro" target="_blank"><img src="https://img.shields.io/badge/-@uhingaro-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://mastodon.social/@xanzhu" target="_blank"><img src="https://img.shields.io/badge/-Xanzhu-6364ff?style=flat&logo=Mastodon&logoColor=white"/></a>
 </p>
