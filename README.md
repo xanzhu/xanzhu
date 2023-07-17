@@ -28,7 +28,7 @@
 
 ### Xanzhu - https://xanzhu.com
 
-##### Versions: 5.4 Stable May 23 | 6.0 July 23 (Project Rebuild)
+##### Versions: 6.0 Stable July 23
 - Technology site focused on News, Guides and Security tips
 - Built using Nuxt 3, deployed on Cloudflare/Vercel
 - i18n Support (English, Korean, Chinese)
