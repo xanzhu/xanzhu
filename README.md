@@ -38,21 +38,22 @@
 #### uhingaro.com
 - Coming soon
 
-#### Future Projects / TODO
+#### Future Projects
 - Open Source Point of Sale (PoS) System
-- Cisco / Security Related Projects
-- UX/Design Portfolio
-- Python / AI - Human Vision (Live Capture Object Detection)
+- Mobile applications
+- Cloud Configurations
 - Contirbuting to Open Source Projects 👀
 
 ### 🗺️ &nbsp;Visions and Goals 
 
-I am passionate about technology. I strive to create accessible and well-designed software. I am currently pursuing a career path in cyber security, software development, and cloud. I am always looking for ways to make a positive impact through technology and advocating for better accessibility, privacy, and security.
+I am passionate about technology. I strive to create accessible and well-designed software. Currently undertaking a degree in cyber security while learning software development and cloud as a hobby. Always looking for ways to make a positive impact through technology and advocating for better accessibility, privacy, and security.
 
 #### 💻 &nbsp;Goals for 2025~ (Software Development / Cyber Security / Cloud)
 
-The dream is to contribute my skills and ideas to the world. Whether that be designing accessible software or securing the cloud. I plan to do it all.
-Hope you'll join me along the path. Some places I think would be cool to work at: GCSB/NZSIS GOVT, Cisco, Microsoft, Google, or Apple!
+The dream is to contribute my skills and ideas to the world. Helping to build a safer, secure environment for collboaration and innovation around technology. 
+Taking my knowledge and making it accessible to anyone getting started. Hope you will join me along the path. 
+
+Some awesome companies I would love to work with: Microsoft, Google, Apple, GCSB and more. 
 
 ----
 
