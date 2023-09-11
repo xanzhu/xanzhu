@@ -25,22 +25,23 @@
 
 <h2 align="center">🚧 &nbsp;Projects</h2>
 
-### Xanzhu - https://xanzhu.com
+### https://xanzhu.com
 
-##### Versions: 6.0 Stable July 23
-- Technology site focused on News, Guides and Security tips
-- Built using Nuxt 3, deployed on Cloudflare/Vercel
-- i18n Support (English, Korean, Chinese)
+Technology site focused on News, Guides and Security tips.<br>Custom Coded and Designed using HTML, CSS and Javascript
+
+- Build with Nuxt 3, deployed on Vercel & Cloudflare.
+- Full i18n support (English, Korean and Chinese)
+- a11y support
+- Nuxt headless CMS (Using REST API)
 - Responsive Web Design
-- a11y Support
-- Designed using UnoCSS
+- UnoCSS support
 
-#### uhingaro.com
-- Coming soon
+### https://uhingaro.com
+- Next.JS project releasing soon!
 
-#### Future Projects
+#### Projects in development..
 - Open Source Point of Sale (PoS) System
-- Mobile applications
+- Mobile App (React native / Swift)
 - Cloud Configurations
 - Contirbuting to Open Source Projects 👀
 
