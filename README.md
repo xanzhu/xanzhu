@@ -17,9 +17,9 @@
 I am passionate about technology. I strive to create accessible and well-designed software. Currently undertaking a degree in cyber security while learning software development and cloud as a hobby. Always looking for ways to make a positive impact through technology and advocating for better accessibility, privacy, and security.
 
 <br> 
-<a href="https://github.com/xanzhu"> 
+<!-- <a href="https://github.com/xanzhu"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xanzhu&layout=compact&theme=midnight-purple" />
-</a>
+</a> -->
 
 
 ### Projects
