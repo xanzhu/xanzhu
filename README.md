@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Bobby. 🤠</h1>
-
 <div align="center">
   <img src="https://img.shields.io/badge/-Nuxt-05122A?style=flat&logo=nuxt.js" alt="Nuxt">
   <img src="https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue.js" alt="Vue">
@@ -11,6 +10,8 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code">
   <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java" alt="Java">
 </div>
+
+
 
 ### About Me
 
@@ -50,6 +51,8 @@ The dream is to contribute my skills and ideas to the world. Helping to build a 
 Taking my knowledge and making it accessible to anyone getting started. Hope you will join me along the path. 
 
 Some awesome companies I would love to work with: Microsoft, Google, Apple, GCSB and more. 
+
+  ![](https://komarev.com/ghpvc/?username=xanzhu&color=FF0000)
 
 ----
 
