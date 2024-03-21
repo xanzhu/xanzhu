@@ -15,7 +15,7 @@
 
 ### About Me
 
-I am passionate about technology. I strive to create accessible and well-designed software. Currently undertaking a degree in cyber security while learning software development and cloud as a hobby. Always looking for ways to make a positive impact through technology and advocating for better accessibility, privacy, and security.
+I am passionate about technology. I strive to create accessible and well-designed software. Currently undertaking a degree in Cyber Security while learning software development and cloud as a hobby. Always looking for ways to make a positive impact through technology and advocating for better accessibility, privacy, and security.
 
 <br> 
 <a href="https://github.com/xanzhu"> 
